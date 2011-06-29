@@ -8,6 +8,8 @@ there is no dedicated github repo for the scheme that can be submoduled.)
   * [molokai][3] by Tomas Restrepo
   * [Clouds Midnight][4] by Fred Leblanc ([Vim conversion][5] by Steve Losh)
   * [Mustang][6] by Henrique C. Alves
+  * [Zenburn][7] by Jani Nurminen (technically there's a [github repo][8], but 
+    it's not set up for easy pathogenization)
 
 [1]: https://github.com/tpope/vim-pathogen
 [2]: http://blog.toddwerth.com/entries/show/8
@@ -15,3 +17,5 @@ there is no dedicated github repo for the scheme that can be submoduled.)
 [4]: http://fredhq.com/projects/clouds/
 [5]: http://forrst.com/posts/Clouds_Midnight_for_Vim-yZn
 [6]: http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484
+[7]: http://slinky.imukuppi.org/zenburnpage/
+[8]: https://github.com/jnurmine/Zenburn
